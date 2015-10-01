@@ -6,8 +6,10 @@
 		<artifactId>jresume</artifactId>
 		<version>1.0</version>
 	</parent>
+	
 	<artifactId>common</artifactId>
 	<version>1.0</version>
+	
 	<dependencies>
 		<!-- spring beans -->
 		<dependency>
